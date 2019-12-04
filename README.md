@@ -1,3 +1,3 @@
 # node school zadaci
 
-sve riješeno!
+Sve riješeno!
